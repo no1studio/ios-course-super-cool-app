@@ -156,6 +156,7 @@
 		3E322DA31CA020AE0060B45A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = "Simon McDuck";
 				TargetAttributes = {
@@ -405,6 +406,7 @@
 				3E322DCC1CA020B10060B45A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3E322DCD1CA020B10060B45A /* Build configuration list for PBXNativeTarget "SuperCoolAppTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +415,7 @@
 				3E322DCF1CA020B10060B45A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
